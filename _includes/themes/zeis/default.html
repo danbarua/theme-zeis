@@ -81,7 +81,7 @@
           <h1 id='blog-title'>
             <a href='{{ HOME_PATH }}'>{{ site.title }}</a>
           </h1>
-          <h2 id='blog-subtitle'>Usability, responsiveness, clean code... some words I like</h2>
+          <h2 id='blog-subtitle'>{{ site.tagline }}</h2>
         </header>
         <hr id='top-separator'/>
         {{ content }}
@@ -90,12 +90,12 @@
     <footer>
       <p>
         &copy; {{ site.author.name }} 2012
-      </p>
-      <p>Powered by <a href='https://github.com/mojombo/jekyll'>Jekyll</a>
+        <span class='pipe-separator'>|</span>
+        Powered by <a href='https://github.com/mojombo/jekyll'>Jekyll</a>
         <span class='pipe-separator'>|</span>
         Hosting by <a href='http://pages.github.com/'>GitHub Pages</a>
         <span class='pipe-separator'>|</span>
-        <a href='https://github.com/zeis/zeis.github.com'>Design</a>
+        <a href='https://github.com/danbarua/theme-zeis'>Theme</a>
         by <a href='http://alessandrodimartino.com'>Alessandro Di Martino</a>
       </p>
     </footer>
