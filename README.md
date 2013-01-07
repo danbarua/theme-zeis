@@ -9,4 +9,6 @@ Version: 1.0
 ## About Zeis
 
 Zeis is a nice theme for Jekyll by [Alessandro Di Martino's](http://alessandrodimartino.com/)
-It has been ported to [Jekyll-Bootstrap](http://jekyllbootstrap.com/) theme for [jekyll](https://github.com/mojombo/jekyll) by [Dan Barua](http://danbarua.com/) 
+It has been ported to [Jekyll-Bootstrap](http://jekyllbootstrap.com/) theme for [jekyll](https://github.com/mojombo/jekyll) by [Dan Barua](http://danbarua.com/)
+
+The original design is copyright Allesandro Di Martino and is licensed under the MIT license.
