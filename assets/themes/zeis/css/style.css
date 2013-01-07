@@ -89,8 +89,8 @@ header {
 }
 
 #top-separator {
-  margin-top: 30px;
-  margin-bottom: 40px;
+  margin-top: 10px;
+  margin-bottom: 10px;
   border: none;
   border-top: 1px dotted #aaa;
 }
@@ -102,8 +102,9 @@ header {
 
 .post-date {
   margin-top: 0;
-  margin-bottom: 30px;
+  margin-bottom: 20px;
   color: #888;
+  font-size:12px;
 }
 
 .archive-post-title {
@@ -205,9 +206,10 @@ p {
   display: block;
 }
 
-p + p {
+/* p + p {
   text-indent: 30px;
 }
+*/
 
 code {
   font-size: 13px;
